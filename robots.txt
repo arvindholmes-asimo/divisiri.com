@@ -1,0 +1,5 @@
+# NOTE: Replace [CANONICAL_URL_PLACEHOLDER] with the real production domain before launch.
+User-agent: *
+Allow: /
+
+Sitemap: [CANONICAL_URL_PLACEHOLDER]/sitemap.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NOTE: Replace [CANONICAL_URL_PLACEHOLDER] with the real production domain before launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/index.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/about.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/solutions.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/research-development.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/products.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/concept-to-consumer.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/private-label.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/co-branding.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/quality-safety.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/journal.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/faq.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/careers.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/contact.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/privacy.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/terms.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/shipping.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/returns.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/disclaimer.html</loc></url>
+  <url><loc>[CANONICAL_URL_PLACEHOLDER]/accessibility.html</loc></url>
+</urlset>
